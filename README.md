@@ -14,3 +14,6 @@ x*x
 -3  -2 -1
 t[1,2,3]
   0 1 2 3 4 ...
+
+
+  Python doctor pour avoir une documentation
