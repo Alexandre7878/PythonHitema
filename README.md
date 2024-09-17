@@ -17,3 +17,4 @@ t[1,2,3]
 
 
   Python doctor pour avoir une documentation
+realpython pour apprendre
